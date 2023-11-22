@@ -1,7 +1,7 @@
 ## Installation
 ```shell
 python -m venv venv
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Running
