@@ -3,29 +3,30 @@ import math
 import json
 
 def calculate_fn(location1, location2, cost, rating):
-    # Implementasi fungsi heuristik fn
     distance = calculate_distance(location1, location2)
-    return distance + cost - rating  # Contoh fungsi heuristik sederhana
+    res= cost / 100000
+    return 0.3 * distance + 0.5* res + 0.2 * (5-rating)   # The f(n) function for now, could be modified later
 
-def haversine(lat1, lon1, lat2, lon2):
+
+def calculate_distance(location1,location2):
     # Convert latitude and longitude from degrees to radians
-    lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
+    lat1, lon1 = map(math.radians, location1)
+    lat2, lon2 = map(math.radians, location2)
+
     # Differences in coordinates
     dlat = lat2 - lat1
     dlon = lon2 - lon1
+
     # Haversine formula
     a = math.sin(dlat / 2) ** 2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2) ** 2
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
-    # Radius of the Earth in kilometers (mean value)
+    
+    # Radius of the Earth in kilometers (mean value) 
     R = 6371.0
+    
     # Calculate the distance
-    return R * c
-
-def calculate_distance(location1, location2):
-    # Implementasi perhitungan jarak antara dua lokasi
-    x1, y1 = location1
-    x2, y2 = location2
-    return math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+    distance = R * c
+    return distance
 
 def generate_timeframes(current_day, max_days):
     if current_day == 1 and max_days == 1:
@@ -156,3 +157,5 @@ def search_destinations(max_days:int, max_budget:int):
         return {'message': 'Error: Budget is not enough'}
     else:
         return plan
+    
+search_destinations(3,1000000)

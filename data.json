@@ -1,698 +1,698 @@
 [
     {
-      "name": "cak har",
-      "location": [
-        2.34,
-        8.12
-      ],
-      "cost": 25,
-      "rating": 4.2,
-      "type": "makan",
-      "open": 11,
-      "close": 19
+        "name": "cak har",
+        "location": [
+            112.76,
+            -7.26
+        ],
+        "cost": 20000,
+        "rating": 4.2,
+        "type": "makan",
+        "open": 11,
+        "close": 19
     },
     {
-      "name": "kbs",
-      "location": [
-        5.67,
-        1.23
-      ],
-      "cost": 40,
-      "rating": 3.8,
-      "type": "wisata",
-      "open": 10,
-      "close": 20
+        "name": "kbs",
+        "location": [
+            112.78,
+            -7.29
+        ],
+        "cost": 40000,
+        "rating": 3.8,
+        "type": "wisata",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "oakwood",
-      "location": [
-        8.91,
-        4.56
-      ],
-      "cost": 30,
-      "rating": 4.5,
-      "type": "hotel",
-      "open": 9,
-      "close": 21
+        "name": "oakwood",
+        "location": [
+            112.81,
+            -7.24
+        ],
+        "cost": 500000,
+        "rating": 4.5,
+        "type": "hotel",
+        "open": 9,
+        "close": 21
     },
     {
-      "name": "mie gacoan",
-      "location": [
-        3.45,
-        7.89
-      ],
-      "cost": 15,
-      "rating": 4,
-      "type": "makan",
-      "open": 8,
-      "close": 18
+        "name": "mie gacoan",
+        "location": [
+            112.77,
+            -7.27
+        ],
+        "cost": 10000,
+        "rating": 4.0,
+        "type": "makan",
+        "open": 8,
+        "close": 18
     },
     {
-      "name": "masjid agung sby",
-      "location": [
-        6.78,
-        2.34
-      ],
-      "cost": 35,
-      "rating": 4.3,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "masjid agung sby",
+        "location": [
+            112.8,
+            -7.23
+        ],
+        "cost": 10000,
+        "rating": 4.3,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "apartemen",
-      "location": [
-        9.01,
-        5.67
-      ],
-      "cost": 20,
-      "rating": 4.8,
-      "type": "hotel",
-      "open": 10,
-      "close": 22
+        "name": "apartemen",
+        "location": [
+            112.83,
+            -7.28
+        ],
+        "cost": 300000,
+        "rating": 4.8,
+        "type": "hotel",
+        "open": 10,
+        "close": 22
     },
     {
-      "name": "deles",
-      "location": [
-        4.56,
-        8.91
-      ],
-      "cost": 28,
-      "rating": 4.1,
-      "type": "makan",
-      "open": 9,
-      "close": 19
+        "name": "deles",
+        "location": [
+            112.79,
+            -7.21
+        ],
+        "cost": 15000,
+        "rating": 4.1,
+        "type": "makan",
+        "open": 9,
+        "close": 19
     },
     {
-      "name": "konser IU",
-      "location": [
-        7.89,
-        3.45
-      ],
-      "cost": 45,
-      "rating": 5,
-      "type": "wisata",
-      "open": 10,
-      "close": 21
+        "name": "konser IU",
+        "location": [
+            112.82,
+            -7.25
+        ],
+        "cost": 760000,
+        "rating": 5.0,
+        "type": "wisata",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "mercure hotel",
-      "location": [
-        2.34,
-        6.78
-      ],
-      "cost": 22,
-      "rating": 4.4,
-      "type": "hotel",
-      "open": 9,
-      "close": 20
+        "name": "mercure hotel",
+        "location": [
+            112.76,
+            -7.22
+        ],
+        "cost": 200000,
+        "rating": 4.4,
+        "type": "hotel",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "ayam kremes",
-      "location": [
-        5.67,
-        9.01
-      ],
-      "cost": 18,
-      "rating": 4.9,
-      "type": "makan",
-      "open": 7,
-      "close": 18
+        "name": "ayam kremes",
+        "location": [
+            112.78,
+            -7.3
+        ],
+        "cost": 17000,
+        "rating": 4.9,
+        "type": "makan",
+        "open": 7,
+        "close": 18
     },
     {
-      "name": "alun2",
-      "location": [
-        8.91,
-        4.56
-      ],
-      "cost": 38,
-      "rating": 4,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "alun2",
+        "location": [
+            112.81,
+            -7.27
+        ],
+        "cost": 32000,
+        "rating": 4.0,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "verwood hotel",
-      "location": [
-        3.45,
-        7.89
-      ],
-      "cost": 27,
-      "rating": 4.6,
-      "type": "hotel",
-      "open": 10,
-      "close": 22
+        "name": "verwood hotel",
+        "location": [
+            112.84,
+            -7.23
+        ],
+        "cost": 260000,
+        "rating": 4.6,
+        "type": "hotel",
+        "open": 10,
+        "close": 22
     },
     {
-      "name": "tahu tek pak jayen",
-      "location": [
-        6.78,
-        2.34
-      ],
-      "cost": 16,
-      "rating": 3.9,
-      "type": "makan",
-      "open": 11,
-      "close": 19
+        "name": "tahu tek pak jayen",
+        "location": [
+            112.78,
+            -7.28
+        ],
+        "cost": 10000,
+        "rating": 3.9,
+        "type": "makan",
+        "open": 11,
+        "close": 19
     },
     {
-      "name": "tunjungan",
-      "location": [
-        9.01,
-        5.67
-      ],
-      "cost": 32,
-      "rating": 4.3,
-      "type": "wisata",
-      "open": 10,
-      "close": 21
+        "name": "tunjungan",
+        "location": [
+            112.81,
+            -7.24
+        ],
+        "cost": 32000,
+        "rating": 4.3,
+        "type": "wisata",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "alana hotel",
-      "location": [
-        4.56,
-        8.91
-      ],
-      "cost": 24,
-      "rating": 4.8,
-      "type": "hotel",
-      "open": 9,
-      "close": 20
+        "name": "alana hotel",
+        "location": [
+            112.83,
+            -7.29
+        ],
+        "cost": 240000,
+        "rating": 4.8,
+        "type": "hotel",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "mcd",
-      "location": [
-        7.89,
-        3.45
-      ],
-      "cost": 42,
-      "rating": 4.2,
-      "type": "makan",
-      "open": 11,
-      "close": 24
+        "name": "mcd",
+        "location": [
+            112.8,
+            -7.25
+        ],
+        "cost": 42000,
+        "rating": 4.2,
+        "type": "makan",
+        "open": 11,
+        "close": 24
     },
     {
-      "name": "tp",
-      "location": [
-        2.34,
-        6.78
-      ],
-      "cost": 19,
-      "rating": 3.7,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "tp",
+        "location": [
+            112.76,
+            -7.28
+        ],
+        "cost": 50000,
+        "rating": 3.7,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "arcadia hotel",
-      "location": [
-        5.67,
-        9.01
-      ],
-      "cost": 36,
-      "rating": 4.4,
-      "type": "hotel",
-      "open": 10,
-      "close": 21
+        "name": "arcadia hotel",
+        "location": [
+            112.79,
+            -7.31
+        ],
+        "cost": 360000,
+        "rating": 4.4,
+        "type": "hotel",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "pecel rawon",
-      "location": [
-        8.91,
-        4.56
-      ],
-      "cost": 21,
-      "rating": 4.9,
-      "type": "makan",
-      "open": 7,
-      "close": 19
+        "name": "pecel rawon",
+        "location": [
+            112.82,
+            -7.27
+        ],
+        "cost": 10000,
+        "rating": 4.9,
+        "type": "makan",
+        "open": 7,
+        "close": 19
     },
     {
-      "name": "monumen kapal selam",
-      "location": [
-        3.45,
-        7.89
-      ],
-      "cost": 14,
-      "rating": 4.1,
-      "type": "wisata",
-      "open": 10,
-      "close": 20
+        "name": "monumen kapal selam",
+        "location": [
+            112.77,
+            -7.23
+        ],
+        "cost": 10000,
+        "rating": 4.1,
+        "type": "wisata",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "primebiz hotel",
-      "location": [
-        6.78,
-        2.34
-      ],
-      "cost": 33,
-      "rating": 4.6,
-      "type": "hotel",
-      "open": 9,
-      "close": 22
+        "name": "primebiz hotel",
+        "location": [
+            112.8,
+            -7.28
+        ],
+        "cost": 330000,
+        "rating": 4.6,
+        "type": "hotel",
+        "open": 9,
+        "close": 22
     },
     {
-      "name": "nasi babat",
-      "location": [
-        9.01,
-        5.67
-      ],
-      "cost": 23,
-      "rating": 3.8,
-      "type": "makan",
-      "open": 12,
-      "close": 20
+        "name": "nasi babat",
+        "location": [
+            112.83,
+            -7.22
+        ],
+        "cost": 23000,
+        "rating": 3.8,
+        "type": "makan",
+        "open": 12,
+        "close": 20
     },
     {
-      "name": "tugu pahlawan",
-      "location": [
-        4.56,
-        8.91
-      ],
-      "cost": 17,
-      "rating": 4.3,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "tugu pahlawan",
+        "location": [
+            112.79,
+            -7.27
+        ],
+        "cost": 10000,
+        "rating": 4.3,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "livin hotel",
-      "location": [
-        7.89,
-        3.45
-      ],
-      "cost": 29,
-      "rating": 4.8,
-      "type": "hotel",
-      "open": 10,
-      "close": 21
+        "name": "livin hotel",
+        "location": [
+            112.82,
+            -7.23
+        ],
+        "cost": 490000,
+        "rating": 4.8,
+        "type": "hotel",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "domino",
-      "location": [
-        2.34,
-        6.78
-      ],
-      "cost": 39,
-      "rating": 4.2,
-      "type": "makan",
-      "open": 10,
-      "close": 22
+        "name": "domino",
+        "location": [
+            112.76,
+            -7.27
+        ],
+        "cost": 39000,
+        "rating": 4.2,
+        "type": "makan",
+        "open": 10,
+        "close": 22
     },
     {
-      "name": "taman bungkul",
-      "location": [
-        5.67,
-        9.01
-      ],
-      "cost": 26,
-      "rating": 3.7,
-      "type": "wisata",
-      "open": 10,
-      "close": 20
+        "name": "taman bungkul",
+        "location": [
+            112.79,
+            -7.3
+        ],
+        "cost": 20000,
+        "rating": 3.7,
+        "type": "wisata",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "garden palace hotel",
-      "location": [
-        8.91,
-        4.56
-      ],
-      "cost": 44,
-      "rating": 4.4,
-      "type": "hotel",
-      "open": 9,
-      "close": 20
+        "name": "garden palace hotel",
+        "location": [
+            112.81,
+            -7.24
+        ],
+        "cost": 440000,
+        "rating": 4.4,
+        "type": "hotel",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "ayam bakar primarasa",
-      "location": [
-        3.45,
-        7.89
-      ],
-      "cost": 20,
-      "rating": 4.9,
-      "type": "makan",
-      "open": 6,
-      "close": 17
+        "name": "ayam bakar primarasa",
+        "location": [
+            112.84,
+            -7.28
+        ],
+        "cost": 17000,
+        "rating": 4.9,
+        "type": "makan",
+        "open": 6,
+        "close": 17
     },
     {
-      "name": "taman apsari",
-      "location": [
-        6.78,
-        2.34
-      ],
-      "cost": 37,
-      "rating": 4,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "taman apsari",
+        "location": [
+            112.78,
+            -7.23
+        ],
+        "cost": 17000,
+        "rating": 4.0,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "swiss bellin",
-      "location": [
-        9.01,
-        5.67
-      ],
-      "cost": 25,
-      "rating": 4.5,
-      "type": "hotel",
-      "open": 10,
-      "close": 21
+        "name": "swiss bellin",
+        "location": [
+            112.8,
+            -7.29
+        ],
+        "cost": 250000,
+        "rating": 4.5,
+        "type": "hotel",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "Sunset Cove",
-      "location": [
-        11.11,
-        22.22
-      ],
-      "cost": 28,
-      "rating": 4.1,
-      "type": "makan",
-      "open": 10,
-      "close": 20
+        "name": "Sunset Cove",
+        "location": [
+            112.91,
+            -7.14
+        ],
+        "cost": 10000,
+        "rating": 4.1,
+        "type": "makan",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "Mountain Retreat",
-      "location": [
-        33.33,
-        44.44
-      ],
-      "cost": 42,
-      "rating": 4.8,
-      "type": "wisata",
-      "open": 9,
-      "close": 21
+        "name": "Mountain Retreat",
+        "location": [
+            113.13,
+            -7.35
+        ],
+        "cost": 42000,
+        "rating": 4.8,
+        "type": "wisata",
+        "open": 9,
+        "close": 21
     },
     {
-      "name": "Seaside Resort",
-      "location": [
-        55.55,
-        66.66
-      ],
-      "cost": 35,
-      "rating": 4.3,
-      "type": "hotel",
-      "open": 8,
-      "close": 19
+        "name": "Seaside Resort",
+        "location": [
+            113.35,
+            -7.18
+        ],
+        "cost": 400000,
+        "rating": 4.3,
+        "type": "hotel",
+        "open": 8,
+        "close": 19
     },
     {
-      "name": "Flavors of Asia",
-      "location": [
-        77.77,
-        88.88
-      ],
-      "cost": 18,
-      "rating": 4.9,
-      "type": "makan",
-      "open": 12,
-      "close": 22
+        "name": "Flavors of Asia",
+        "location": [
+            113.57,
+            -7.29
+        ],
+        "cost": 18000,
+        "rating": 4.9,
+        "type": "makan",
+        "open": 12,
+        "close": 22
     },
     {
-      "name": "Historical Square",
-      "location": [
-        99.99,
-        11.11
-      ],
-      "cost": 32,
-      "rating": 4.2,
-      "type": "wisata",
-      "open": 10,
-      "close": 20
+        "name": "Historical Square",
+        "location": [
+            113.79,
+            -7.15
+        ],
+        "cost": 32000,
+        "rating": 4.2,
+        "type": "wisata",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "Skyline Heights",
-      "location": [
-        12.12,
-        23.23
-      ],
-      "cost": 24,
-      "rating": 4.6,
-      "type": "hotel",
-      "open": 9,
-      "close": 21
+        "name": "Skyline Heights",
+        "location": [
+            112.92,
+            -7.26
+        ],
+        "cost": 240000,
+        "rating": 4.6,
+        "type": "hotel",
+        "open": 9,
+        "close": 21
     },
     {
-      "name": "Gourmet Delight",
-      "location": [
-        34.34,
-        45.45
-      ],
-      "cost": 40,
-      "rating": 4,
-      "type": "makan",
-      "open": 11,
-      "close": 19
+        "name": "Gourmet Delight",
+        "location": [
+            113.14,
+            -7.37
+        ],
+        "cost": 40000,
+        "rating": 4.0,
+        "type": "makan",
+        "open": 11,
+        "close": 19
     },
     {
-      "name": "Artistic Haven",
-      "location": [
-        56.56,
-        67.67
-      ],
-      "cost": 29,
-      "rating": 4.5,
-      "type": "wisata",
-      "open": 10,
-      "close": 22
+        "name": "Artistic Haven",
+        "location": [
+            113.36,
+            -7.2
+        ],
+        "cost": 29000,
+        "rating": 4.5,
+        "type": "wisata",
+        "open": 10,
+        "close": 22
     },
     {
-      "name": "Cozy Retreat Inn",
-      "location": [
-        78.78,
-        89.89
-      ],
-      "cost": 21,
-      "rating": 3.8,
-      "type": "hotel",
-      "open": 7,
-      "close": 18
+        "name": "Cozy Retreat Inn",
+        "location": [
+            113.58,
+            -7.31
+        ],
+        "cost": 450000,
+        "rating": 3.8,
+        "type": "hotel",
+        "open": 7,
+        "close": 18
     },
     {
-      "name": "Culinary Arts Hub",
-      "location": [
-        91.91,
-        12.12
-      ],
-      "cost": 37,
-      "rating": 4.4,
-      "type": "makan",
-      "open": 11,
-      "close": 24
+        "name": "Culinary Arts Hub",
+        "location": [
+            113.91,
+            -7.12
+        ],
+        "cost": 37000,
+        "rating": 4.4,
+        "type": "makan",
+        "open": 11,
+        "close": 24
     },
     {
-      "name": "Lush Green Park",
-      "location": [
-        22.22,
-        33.33
-      ],
-      "cost": 19,
-      "rating": 3.7,
-      "type": "wisata",
-      "open": 10,
-      "close": 20
+        "name": "Lush Green Park",
+        "location": [
+            112.22,
+            -7.33
+        ],
+        "cost": 19000,
+        "rating": 3.7,
+        "type": "wisata",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "Harbor Lights Hotel",
-      "location": [
-        44.44,
-        55.55
-      ],
-      "cost": 36,
-      "rating": 4.2,
-      "type": "hotel",
-      "open": 10,
-      "close": 21
+        "name": "Harbor Lights Hotel",
+        "location": [
+            113.44,
+            -7.55
+        ],
+        "cost": 360000,
+        "rating": 4.2,
+        "type": "hotel",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "Spicy Delights",
-      "location": [
-        66.66,
-        77.77
-      ],
-      "cost": 26,
-      "rating": 3.9,
-      "type": "makan",
-      "open": 11,
-      "close": 19
+        "name": "Spicy Delights",
+        "location": [
+            113.66,
+            -7.77
+        ],
+        "cost": 26000,
+        "rating": 3.9,
+        "type": "makan",
+        "open": 11,
+        "close": 19
     },
     {
-      "name": "Majestic Peak",
-      "location": [
-        88.88,
-        99.99
-      ],
-      "cost": 33,
-      "rating": 4.3,
-      "type": "wisata",
-      "open": 10,
-      "close": 21
+        "name": "Majestic Peak",
+        "location": [
+            113.88,
+            -7.99
+        ],
+        "cost": 33000,
+        "rating": 4.3,
+        "type": "wisata",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "Royal Gardens Hotel",
-      "location": [
-        12.12,
-        23.23
-      ],
-      "cost": 27,
-      "rating": 4.8,
-      "type": "hotel",
-      "open": 9,
-      "close": 20
+        "name": "Royal Gardens Hotel",
+        "location": [
+            112.12,
+            -7.23
+        ],
+        "cost": 570000,
+        "rating": 4.8,
+        "type": "hotel",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "Taste of Tradition",
-      "location": [
-        34.34,
-        45.45
-      ],
-      "cost": 44,
-      "rating": 4.4,
-      "type": "makan",
-      "open": 9,
-      "close": 20
+        "name": "Taste of Tradition",
+        "location": [
+            113.34,
+            -7.44
+        ],
+        "cost": 44000,
+        "rating": 4.4,
+        "type": "makan",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "City Lights Plaza",
-      "location": [
-        56.56,
-        67.67
-      ],
-      "cost": 20,
-      "rating": 4.9,
-      "type": "wisata",
-      "open": 10,
-      "close": 21
+        "name": "City Lights Plaza",
+        "location": [
+            113.56,
+            -7.66
+        ],
+        "cost": 20000,
+        "rating": 4.9,
+        "type": "wisata",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "Grand Horizon Hotel",
-      "location": [
-        78.78,
-        89.89
-      ],
-      "cost": 16,
-      "rating": 4,
-      "type": "hotel",
-      "open": 11,
-      "close": 19
+        "name": "Grand Horizon Hotel",
+        "location": [
+            113.78,
+            -7.88
+        ],
+        "cost": 610000,
+        "rating": 4.0,
+        "type": "hotel",
+        "open": 11,
+        "close": 19
     },
     {
-      "name": "Savory Spices Bistro",
-      "location": [
-        91.91,
-        12.12
-      ],
-      "cost": 23,
-      "rating": 3.7,
-      "type": "makan",
-      "open": 10,
-      "close": 20
+        "name": "Savory Spices Bistro",
+        "location": [
+            113.91,
+            -7.12
+        ],
+        "cost": 23000,
+        "rating": 3.7,
+        "type": "makan",
+        "open": 10,
+        "close": 20
     },
     {
-      "name": "Serene Lakeside",
-      "location": [
-        22.22,
-        33.33
-      ],
-      "cost": 38,
-      "rating": 4.6,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "Serene Lakeside",
+        "location": [
+            112.22,
+            -7.33
+        ],
+        "cost": 38000,
+        "rating": 4.6,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "Tranquil Haven",
-      "location": [
-        44.44,
-        55.55
-      ],
-      "cost": 25,
-      "rating": 4.3,
-      "type": "hotel",
-      "open": 10,
-      "close": 21
+        "name": "Tranquil Haven",
+        "location": [
+            113.44,
+            -7.55
+        ],
+        "cost": 250000,
+        "rating": 4.3,
+        "type": "hotel",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "Flavor Fusion Cuisine",
-      "location": [
-        66.66,
-        77.77
-      ],
-      "cost": 42,
-      "rating": 4.8,
-      "type": "makan",
-      "open": 12,
-      "close": 20
+        "name": "Flavor Fusion Cuisine",
+        "location": [
+            113.66,
+            -7.77
+        ],
+        "cost": 42000,
+        "rating": 4.8,
+        "type": "makan",
+        "open": 12,
+        "close": 20
     },
     {
-      "name": "Mystic Peaks",
-      "location": [
-        88.88,
-        99.99
-      ],
-      "cost": 30,
-      "rating": 4.1,
-      "type": "wisata",
-      "open": 10,
-      "close": 21
+        "name": "Mystic Peaks",
+        "location": [
+            113.88,
+            -7.99
+        ],
+        "cost": 30000,
+        "rating": 4.1,
+        "type": "wisata",
+        "open": 10,
+        "close": 21
     },
     {
-      "name": "Elegant Skyline Hotel",
-      "location": [
-        12.12,
-        23.23
-      ],
-      "cost": 19,
-      "rating": 3.8,
-      "type": "hotel",
-      "open": 9,
-      "close": 20
+        "name": "Elegant Skyline Hotel",
+        "location": [
+            112.12,
+            -7.23
+        ],
+        "cost": 490000,
+        "rating": 3.8,
+        "type": "hotel",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "Cultural Arts Center",
-      "location": [
-        34.34,
-        45.45
-      ],
-      "cost": 32,
-      "rating": 4.5,
-      "type": "makan",
-      "open": 10,
-      "close": 22
+        "name": "Cultural Arts Center",
+        "location": [
+            112.45,
+            -7.01
+        ],
+        "cost": 32000,
+        "rating": 4.5,
+        "type": "makan",
+        "open": 10,
+        "close": 22
     },
     {
-      "name": "Peaceful Meadows",
-      "location": [
-        56.56,
-        67.67
-      ],
-      "cost": 23,
-      "rating": 4,
-      "type": "wisata",
-      "open": 9,
-      "close": 20
+        "name": "Peaceful Meadows",
+        "location": [
+            112.64,
+            -7.32
+        ],
+        "cost": 30000,
+        "rating": 4.0,
+        "type": "wisata",
+        "open": 9,
+        "close": 20
     },
     {
-      "name": "Azure Skies Hotel",
-      "location": [
-        78.78,
-        89.89
-      ],
-      "cost": 45,
-      "rating": 4.2,
-      "type": "hotel",
-      "open": 11,
-      "close": 19
+        "name": "Azure Skies Hotel",
+        "location": [
+            113.21,
+            -7.19
+        ],
+        "cost": 450000,
+        "rating": 4.2,
+        "type": "hotel",
+        "open": 11,
+        "close": 19
     },
     {
-      "name": "Gastronomic Delights",
-      "location": [
-        91.91,
-        12.12
-      ],
-      "cost": 28,
-      "rating": 4.7,
-      "type": "makan",
-      "open": 10,
-      "close": 20
+        "name": "Gastronomic Delights",
+        "location": [
+            113.01,
+            -7.69
+        ],
+        "cost": 28000,
+        "rating": 4.7,
+        "type": "makan",
+        "open": 10,
+        "close": 20
     }
-  ]
+]
