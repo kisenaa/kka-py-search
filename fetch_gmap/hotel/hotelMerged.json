@@ -1,0 +1,2921 @@
+[
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Gayung Kebonsari No.30, Gayungan, Kec. Gayungan, Surabaya, Jawa Timur 60235, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3292783,
+          "lng": 112.7223883
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.327931370107278,
+            "lng": 112.7237606298927
+          },
+          "southwest": {
+            "lat": -7.330631029892722,
+            "lng": 112.7210609701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "PrimeBiz Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104527282424066378523\">PrimeBiz Hotel</a>"
+          ],
+          "photo_reference": "AWU5eFhUGDhGm2-zEUrHNgewFcy563u2Bud1X6AROClOTtuADajwxWrYxpLWOHZ9WDvy4IpU6oGu_0TaSA700aNX7XP4Ig9Cu_GptScHcIFRbOErtijgctIVsmAfQOZNb-DQmOrmmVzYMrTJX0Ka8hLCJNzPDFyjtK3CdkOeviV5xweP_aGq",
+          "width": 957
+        }
+      ],
+      "place_id": "ChIJ_aSc61371y0RYGBd-ByOw4U",
+      "plus_code": {
+        "compound_code": "MPCC+7X Gayungan, Surabaya, East Java",
+        "global_code": "6P4JMPCC+7X"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ_aSc61371y0RYGBd-ByOw4U",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3717
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Dr. Ir. H. Soekarno No.134, Mulyorejo, Kec. Mulyorejo, Surabaya, Jawa Timur 60115, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.271107399999999,
+          "lng": 112.7815253
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.269764170107279,
+            "lng": 112.7830362798927
+          },
+          "southwest": {
+            "lat": -7.272463829892723,
+            "lng": 112.7803366201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "The Alimar Premier Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 890,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106145893334973080949\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjxqh1YY3y2Ji21ZJfnVVF0TJqs_CtU6FTDMzhU6FzmX5McYfJsftLZgVPEu7T7wDgz7bO1XA_Mbm9wEKWHW1nha8qZy5ea7LvLjzO0iiY9ulCe8Czr_pf9jppGfB2hTkZxmC8DrmocpfADhJjSEfjG39Offn7PqdsZpYKk5rrzdLsR",
+          "width": 1334
+        }
+      ],
+      "place_id": "ChIJGXXP7CP61y0RfAUj67tHGNg",
+      "plus_code": {
+        "compound_code": "PQHJ+HJ Mulyorejo, Surabaya, East Java",
+        "global_code": "6P4JPQHJ+HJ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJGXXP7CP61y0RfAUj67tHGNg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1142
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Kedung Cowek No.124, Gading, Kec. Tambaksari, Surabaya, Jawa Timur 60134, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2365688,
+          "lng": 112.7716707
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.235189320107279,
+            "lng": 112.7729339298927
+          },
+          "southwest": {
+            "lat": -7.237888979892722,
+            "lng": 112.7702342701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "C.Stone Hotel Suramadu",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1738,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115541503532232388514\">Lily Della Senduk</a>"
+          ],
+          "photo_reference": "AWU5eFjGsb_8dUVjxS_tb7Ca49KZGue1RCG5nzeJdL33DrjAc32O5DKG57L5MFoyN8soQ0zY3kJGfTpDZerONPpqh9AEnW53qwNRrSlqsR05Y9PiiYHK1wx99gOTT8ig-NPvfVZzC_TLukTDYspfga5s9aeYYpXqA0ksX9Tfgt0BzqyjKFLb",
+          "width": 1738
+        }
+      ],
+      "place_id": "ChIJA8i0oaX51y0RvGOT2d5Njwg",
+      "plus_code": {
+        "compound_code": "QQ7C+9M Gading, Surabaya, East Java",
+        "global_code": "6P4JQQ7C+9M"
+      },
+      "rating": 3.9,
+      "reference": "ChIJA8i0oaX51y0RvGOT2d5Njwg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 301
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Slompretan No.26, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur 60161, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2405709,
+          "lng": 112.7408142
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.239205120107279,
+            "lng": 112.7420548298927
+          },
+          "southwest": {
+            "lat": -7.241904779892723,
+            "lng": 112.7393551701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Kokoon Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108163136646384457642\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjZlDwYGQHy4dPnT4fkRWh_7JJasbRH11-K8czC4DR6KLV12ihelOrT-c53Rwlg96t0Ro5BzuLwzfHRWCKgq5NtlDTuy6VhNYOPxQCxjClHWzMWdsn60KeJkRimOzQyT7H4cXio1LNfyrHTzuSOQZu-_ElC-OWKIlmBu_ZgOxTDfJ3u",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJU5vmQRb51y0RuD-i-ObhQOE",
+      "plus_code": {
+        "compound_code": "QP5R+Q8 Bongkaran, Surabaya, East Java",
+        "global_code": "6P4JQP5R+Q8"
+      },
+      "rating": 4.6,
+      "reference": "ChIJU5vmQRb51y0RuD-i-ObhQOE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1832
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Sidosermo II No.70a, Sidosermo, Kec. Wonocolo, Surabaya, Jawa Timur 60239, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.311512,
+          "lng": 112.7497016
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.310166920107278,
+            "lng": 112.7511002798927
+          },
+          "southwest": {
+            "lat": -7.312866579892722,
+            "lng": 112.7484006201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ASTON INN Jemursari",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109030638521637348453\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFgPl4UN-EV7Y5_seGlYZM-F6_WR9k7HY6zmv_247zPVz31BScllgc5rE0wEiok0y7cGPxWTjqr137qyjVptF2RwMJHV0QVk-b_ZtgEENtUU34cYYlf7Ek5nwyQA4qtQHGmXfWGDxU1NJE4Eh7BrNiZ8h47CW4a1HOSLIeV90HyJhEw7",
+          "width": 854
+        }
+      ],
+      "place_id": "ChIJnQ-dFpH71y0RiHSqMCqxH5Y",
+      "plus_code": {
+        "compound_code": "MPQX+9V Sidosermo, Surabaya, East Java",
+        "global_code": "6P4JMPQX+9V"
+      },
+      "rating": 4.8,
+      "reference": "ChIJnQ-dFpH71y0RiHSqMCqxH5Y",
+      "types": [
+        "night_club",
+        "spa",
+        "lodging",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2530
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Ketintang Baru III No.58, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.317782899999999,
+          "lng": 112.7299214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.316504620107278,
+            "lng": 112.7313957798927
+          },
+          "southwest": {
+            "lat": -7.319204279892721,
+            "lng": 112.7286961201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hersya Front One Boutique Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 473,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104025124868208756351\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhUyBQQDtHt7kHJBMR6G5zn8iHdRhSjpCG1vi57ko4uMqcvQdKR15P-3XCPZ-jqdL0dNodOXt-Gx6OiRQFSJRAb0kgh513GfV1OeJUbnchNQiWhXgumFfj9ZZp1W3YHCaXHipVbxkvkTgwck3r6u_zpeS0odAstS4xx4f-26ci1ZHU",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJlVgM1XH71y0Rjsnl4Odwb84",
+      "plus_code": {
+        "compound_code": "MPJH+VX Ketintang, Surabaya, East Java",
+        "global_code": "6P4JMPJH+VX"
+      },
+      "rating": 4.4,
+      "reference": "ChIJlVgM1XH71y0Rjsnl4Odwb84",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1299
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Rungkut Industri Raya No.4, Kutisari, Kec. Tenggilis Mejoyo, Surabaya, Jawa Timur 60292, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3301481,
+          "lng": 112.7525407
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.329019420107277,
+            "lng": 112.7539296798927
+          },
+          "southwest": {
+            "lat": -7.331719079892721,
+            "lng": 112.7512300201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "My Tower Hotel Surabaya",
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110217502968781762215\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhYS5jwiq9mWnnM9OM5dzD8fgOGRVnWll0uI2CaUuYfPJKY1cISK08s282H25ymwFuptvFkO6oRrdZXKdcR_4U-jgMltziZsUZkQ7ZoEpawEmN-0dJv9kM9KMtl2Q51J4L9ysj_KOAGKwJeyLdLeNnNl-0xAm1M_zMX8htqIvdyhimt",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJE6ZOaCP71y0RWogxW29CPYg",
+      "plus_code": {
+        "compound_code": "MQ93+W4 Kutisari, Surabaya, East Java",
+        "global_code": "6P4JMQ93+W4"
+      },
+      "rating": 3.5,
+      "reference": "ChIJE6ZOaCP71y0RWogxW29CPYg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1430
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Mastrip No.41E, Kedurus, Kec. Karangpilang, Surabaya, Jawa Timur 60222, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.313844,
+          "lng": 112.709846
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.312486320107277,
+            "lng": 112.7110690798927
+          },
+          "southwest": {
+            "lat": -7.315185979892721,
+            "lng": 112.7083694201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Nite & Day Hotel Gunungsari",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5906,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107545900215597017549\">Nite &amp; Day Surabaya - Matrip</a>"
+          ],
+          "photo_reference": "AWU5eFjrdIJ75Yr3p2wa2oyQT_gQav8tpMudaL6cvtud6mPIhXbyujqwv2lTlW7uSiWc4vg1wQcxPuwcEzulkFrYSYzLyawtjMgFudNS5g89NRgtnIQiYmvYADw-p2m85E7Zj6Mgn37GeEmMnZGpYeZb1blP-Y9Xf7w6ruwxKwbpAUJKbo63",
+          "width": 3937
+        }
+      ],
+      "place_id": "ChIJtfchUYH81y0RYNAXTL-CYcQ",
+      "plus_code": {
+        "compound_code": "MPP5+FW Kedurus, Surabaya, East Java",
+        "global_code": "6P4JMPP5+FW"
+      },
+      "rating": 4.1,
+      "reference": "ChIJtfchUYH81y0RYNAXTL-CYcQ",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1463
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Mayjen HR. Muhammad No.24, Putat Gede, Kec. Sukomanunggal, Surabaya, Jawa Timur 60189, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2858306,
+          "lng": 112.6999453
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.284565620107276,
+            "lng": 112.7011758798927
+          },
+          "southwest": {
+            "lat": -7.28726527989272,
+            "lng": 112.6984762201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "DEKA HOTEL SURABAYA HR MUHAMMAD",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 662,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103551701606765326344\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhnSalvU-WkPS6PlUEf3rhQkD1XrJH8g70F9R3w3Vz7JOThcNMZ4_JBJrlU4x9YiXee1mSof7M5n6Z_3ydFEAvURR19cDYMMGriw-ocqHEofYCNGBgbGkIHDuLwFYUoQREDoPV_V8AUFS9bSIWgLVdyk1flsSYrLSiHldbpUWjZ5-oU",
+          "width": 893
+        }
+      ],
+      "place_id": "ChIJ_-9m5Ev91y0RYmRdtxr0xxU",
+      "plus_code": {
+        "compound_code": "PM7X+MX Putat Gede, Surabaya, East Java",
+        "global_code": "6P4JPM7X+MX"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ_-9m5Ev91y0RYmRdtxr0xxU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 952
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Tunjungan St No.11 - 21, Genteng, Surabaya, East Java 60275, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.257437299999999,
+          "lng": 112.738098
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.256144020107278,
+            "lng": 112.7393382298927
+          },
+          "southwest": {
+            "lat": -7.258843679892722,
+            "lng": 112.7366385701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Platinum",
+      "photos": [
+        {
+          "height": 3664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109219375566376768278\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhSP5RETCYAK9ji5odaVJqSzGdrYri8iLQehrLdAGkLsXXiUvOyfxjmFHD39fyGxkrFyutel1RuI-qMwrG3JhDnw0QZMhqgsoXCyh--98ZtumQ-ZhJHxL53a4s1N9oCxlKuGRFAxftWcMWNFQSxZHKNqQQuTUmhzCAbh4PyVKt2snOS",
+          "width": 3664
+        }
+      ],
+      "place_id": "ChIJTzH_6SX51y0RuacbzYeNnsg",
+      "plus_code": {
+        "compound_code": "PPVQ+26 Genteng, Surabaya, East Java",
+        "global_code": "6P4JPPVQ+26"
+      },
+      "rating": 4.7,
+      "reference": "ChIJTzH_6SX51y0RuacbzYeNnsg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1347
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Tunjungan St No.102-104, Kedungdoro, Tegalsari, Surabaya, East Java 60261, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.262177399999999,
+          "lng": 112.7400133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.260934420107278,
+            "lng": 112.7416534298927
+          },
+          "southwest": {
+            "lat": -7.263634079892721,
+            "lng": 112.7389537701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Tunjungan Hotel",
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116790316672504904515\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjtH3_pBT4-187TxN4YmSSqL7keqk9vRbXIsM2IPsAEOomR_cKjupolCc-pECW2XK2QL8WncDWOvnyU2JIGTEa2Ei8zFgDfzr1Ay0qQFd4QEAzhZIa2IERkdRM_roDc2OQw_0nr6z3mpQPPcQhtEWxWFdo_3Xf5UPR_3K7cJhnHMYQb",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJd_oftWD51y0R0obZ266STuc",
+      "plus_code": {
+        "compound_code": "PPQR+42 Kedungdoro, Surabaya, East Java",
+        "global_code": "6P4JPPQR+42"
+      },
+      "rating": 4.1,
+      "reference": "ChIJd_oftWD51y0R0obZ266STuc",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3852
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Waspada No.58-60, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur 60161, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.241191799999998,
+          "lng": 112.7423842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.239705970107278,
+            "lng": 112.7437420798927
+          },
+          "southwest": {
+            "lat": -7.242405629892722,
+            "lng": 112.7410424201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "POP! Hotel Stasiun Kota - Surabaya",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100600117416762180356\">PoP Stasiun Kota Hotel</a>"
+          ],
+          "photo_reference": "AWU5eFhHS1xAbbBNfC9GKIQPKkBWvog92nfYrD6hJ_t6Vm_8OApc77s8MGBELajDyEgoz-WAfWXMjyx5gfZdXu7PfCmh7YgozdC5FP3ngp0jHP-iRJItEdTYg5568WSLdE-hK_MEV8eaUP_0nO3jFSpXvjuNlHtXqTnfQY2QTZik0_CNMlOS",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJZ9wHhRb51y0R-FEhdHu84_4",
+      "plus_code": {
+        "compound_code": "QP5R+GX Bongkaran, Surabaya, East Java",
+        "global_code": "6P4JQP5R+GX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJZ9wHhRb51y0R-FEhdHu84_4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2715
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Hayam Wuruk No.6, Sawunggaling, Kec. Wonokromo, Surabaya, Jawa Timur 60242, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.294809099999999,
+          "lng": 112.7310397
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.293487820107277,
+            "lng": 112.7324242298927
+          },
+          "southwest": {
+            "lat": -7.296187479892721,
+            "lng": 112.7297245701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ARTOTEL TS Suites Surabaya",
+      "photos": [
+        {
+          "height": 2622,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105655190317285915782\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFi6_jYaPt3Hr2BaVSwDwn_kNL-FIu9D66jxwBBAq1r5r-7tl9yTFyiE3txKz2A0d0kPTG22uGuhjt7LImVSRjuTEGo7jkJf2n1x8UNXHGMHe_pfGrYZuWikkx81ZgQc0a7-SwreQShlgwZ6XkxTFXkt52o_xh24ILtjB3z5ntUCxd97",
+          "width": 3933
+        }
+      ],
+      "place_id": "ChIJF1nx0t371y0ReutQpySADf0",
+      "plus_code": {
+        "compound_code": "PP4J+3C Sawunggaling, Surabaya, East Java",
+        "global_code": "6P4JPP4J+3C"
+      },
+      "rating": 4.6,
+      "reference": "ChIJF1nx0t371y0ReutQpySADf0",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2496
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Dharmahusada No.188, Mojo, Gubeng, Surabaya, East Java 60285, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.268796999999999,
+          "lng": 112.7733352
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.267288520107277,
+            "lng": 112.7747050298927
+          },
+          "southwest": {
+            "lat": -7.269988179892721,
+            "lng": 112.7720053701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Zoom Hotel Dharmahusada",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115151162293325448337\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjYrzpFhLi4NfCUN0NnbC0LFVMgVUkp1j3yvVHZTngGWVxEU2cgFyqK9arioAxu8FFXbghvmL9Act3JV68KcGF1knhZCHh9Zc0mrcejcTo3YEb7dYERcJByTQBfvxn3axYWc0Vc3Yq0GPd4YlUjMyDDQgvkqbgUTBz6zYChShiJeUEI",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJdXR1Gir61y0RQxfa0Wn2bWY",
+      "plus_code": {
+        "compound_code": "PQJF+F8 Mojo, Surabaya, East Java",
+        "global_code": "6P4JPQJF+F8"
+      },
+      "rating": 4.4,
+      "reference": "ChIJdXR1Gir61y0RQxfa0Wn2bWY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1237
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Darmo Permai Selatan No.712 - 713, Pradahkalikendal, Kec. Dukuhpakis, Surabaya, Jawa Timur 60226, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.279341,
+          "lng": 112.6832851
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.278042220107277,
+            "lng": 112.6846435798927
+          },
+          "southwest": {
+            "lat": -7.280741879892722,
+            "lng": 112.6819439201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Tab Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104761838632376290408\">Yustina Salsinha</a>"
+          ],
+          "photo_reference": "AWU5eFhG25k-sBXQRjCz0aWux8B4VGSxmNAGU8qxaOD3ys2LBnq4zBsN1QaP3Nx3Xgx18704XHKAHpm9Wt7pDEsmRMXnKF5vTOLcbHGqbJY89mXBWxdbsD9e7J2yYce43Vh_7tNdCDzW82mTkkAqMx9eOQdp5ZRVOaTDY5YOKNKBWZq3eqWU",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJc3S5yiL81y0RFSDnhO0Q-h8",
+      "plus_code": {
+        "compound_code": "PMCM+78 Pradahkalikendal, Surabaya, East Java",
+        "global_code": "6P4JPMCM+78"
+      },
+      "rating": 4.2,
+      "reference": "ChIJc3S5yiL81y0RFSDnhO0Q-h8",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1148
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Mayjen Sungkono No.152, Dukuh Pakis, Kec. Dukuhpakis, Surabaya, Jawa Timur 60224, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2894158,
+          "lng": 112.7114447
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.288169020107277,
+            "lng": 112.7127599298927
+          },
+          "southwest": {
+            "lat": -7.29086867989272,
+            "lng": 112.7100602701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Life Hotel Mayjend Sungkono",
+      "photos": [
+        {
+          "height": 7234,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113119036333800350574\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFj-sbWAVln5c1dykixmmggFaJU3nwDTZJhNn2yihTgW5nS459Jeeg7ORaxT1AWmULo0YlKqrI98s2ELeQsDG5jKJzKWyjHzvqwB5sfw-KS2K-2EO5VSDuBdipcWXAzBmX2emKjjni13WLAfYMz2R12rYNNKt-KIy8cfjC9HuNlAl0sk",
+          "width": 8501
+        }
+      ],
+      "place_id": "ChIJ5Xc3xXT81y0RbWK1ColaWqk",
+      "plus_code": {
+        "compound_code": "PP66+6H Dukuh Pakis, Surabaya, East Java",
+        "global_code": "6P4JPP66+6H"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ5Xc3xXT81y0RbWK1ColaWqk",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 72
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Ketintang Baru I No.10-12, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3184744,
+          "lng": 112.7316842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.317361420107277,
+            "lng": 112.7329933298927
+          },
+          "southwest": {
+            "lat": -7.320061079892721,
+            "lng": 112.7302936701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "The Alana Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117694348627377862324\">Fz Bachtiar Achmad</a>"
+          ],
+          "photo_reference": "AWU5eFj4DBEes-wMFNxKEkBXRcEx2RvvTPEOGSb91KqY5q9dwdWMb-pAN82R1wqLZUpDZ5-AobBdxg0YstM6p0t1UA08MVpCWzJwrUD26bIyLk6kvBr6fNy8dlVP8LEjg-c65Wdn76RBXOVlT_HuvMAkkPrueayP-SJpV86ZB6qoWQUYsp0h",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJD1JfPm771y0R72rVQ8N2MCQ",
+      "plus_code": {
+        "compound_code": "MPJJ+JM Ketintang, Surabaya, East Java",
+        "global_code": "6P4JMPJJ+JM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJD1JfPm771y0R72rVQ8N2MCQ",
+      "types": [
+        "night_club",
+        "gym",
+        "cafe",
+        "lodging",
+        "bar",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11590
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Darmokali No.60, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2943223,
+          "lng": 112.7405896
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.293038520107278,
+            "lng": 112.7420899298927
+          },
+          "southwest": {
+            "lat": -7.295738179892722,
+            "lng": 112.7393902701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "BATIQA Hotel Darmo - Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112653125458742582110\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFgoPYuT79Ksl-HKvHs0OI1vEOvKENx_2aXmQWIUNXWGrzM2jqogOofGFJgnGQ2o_FgJSxYUK8eutAmDcnniCbAbkHVLJNa596pnRstZiFxWrhq5v08CDjFaWSyOeA0gS0EI-Top8LWJS8RNBHzxNC7vsEwPpVVG6T5HwF87NkzAdCMO",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJX_Pqor371y0RxJEqEuVQ7Tw",
+      "plus_code": {
+        "compound_code": "PP4R+76 Darmo, Surabaya, East Java",
+        "global_code": "6P4JPP4R+76"
+      },
+      "rating": 4.6,
+      "reference": "ChIJX_Pqor371y0RxJEqEuVQ7Tw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2349
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Tanjung Torawitan No.24, Dukuh Kupang, Kec. Krembangan, Surabaya, Jawa Timur 60177, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.221800399999999,
+          "lng": 112.7308872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.220433170107279,
+            "lng": 112.7322022798927
+          },
+          "southwest": {
+            "lat": -7.223132829892723,
+            "lng": 112.7295026201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "RedDoorz near Pelabuhan Tanjung Perak 2 Surabaya",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110723130477616016718\">Kukuh Saputra</a>"
+          ],
+          "photo_reference": "AWU5eFguHVs5RGRhT1-aNK19_opyzp3WZrcg_m8U-6urVtwgX5wN3DFudhziAwkk4JhM9iTMxs2sKk3LhenJrWPLifr7-jrwK_KEIVVnGsiBJ-UmVYI1CAyOwzC8b4NxMu8G1V40s241XuLUTSC5YnIDuzQF_ci8ykELheAAt8dh9iWQxtCJ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJS_IDaJb51y0RsX1hsRBcGQs",
+      "plus_code": {
+        "compound_code": "QPHJ+79 West Perak, Surabaya, East Java",
+        "global_code": "6P4JQPHJ+79"
+      },
+      "rating": 3.9,
+      "reference": "ChIJS_IDaJb51y0RsX1hsRBcGQs",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 466
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Pakuwon Square AK II, Jl. Lingkar Dalam No.10 - 11, Lidah Wetan, Lakarsantri, Surabaya, East Java 60213, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.295333599999999,
+          "lng": 112.6752345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.293982420107278,
+            "lng": 112.6765830298927
+          },
+          "southwest": {
+            "lat": -7.296682079892721,
+            "lng": 112.6738833701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "favehotel Graha Agung Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 778,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117339035042954374749\">favehotel Graha Agung Surabaya</a>"
+          ],
+          "photo_reference": "AWU5eFhyEFh0bN73-2byciSy3aJfWbHy05uARxSrgwnzdM7rh8y0xZMEZ6ZTnbQzMrChw_wO8-7ov7GkVR01xGM_LnCqGyAYYcJ2Oimcg2znM6ouQ8pvj9mKC5M4eg83F4nsnxr4CthpgvcjRnmX5OABTPHPUuIX-L_zhLJpa7J_mVzS64mW",
+          "width": 681
+        }
+      ],
+      "place_id": "ChIJi-bo_j771y0RuuO-EgFj4tY",
+      "plus_code": {
+        "compound_code": "PM3G+V3 Lidah Wetan, Surabaya, East Java",
+        "global_code": "6P4JPM3G+V3"
+      },
+      "rating": 4.3,
+      "reference": "ChIJi-bo_j771y0RuuO-EgFj4tY",
+      "types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3406
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Jenderal S. Parman No.52 - 54, Krajan Kulon, Waru, Kec. Waru, Kabupaten Sidoarjo, Jawa Timur 61256, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.357416499999999,
+          "lng": 112.728571
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.355947270107277,
+            "lng": 112.7299459798927
+          },
+          "southwest": {
+            "lat": -7.35864692989272,
+            "lng": 112.7272463201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Neo+ Waru - Sidoarjo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105782114567154297987\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFiXkzQG4glk48obixSLieiTCPVcz2jCL_Hs7EauY-i3gSzfLpVilTzDSZH51Zu3CVZ2tAkl6vVa-9H4LGvNpifZq9MCgSGPyhc_mXNDnZ6bGwdZ-50wIHz_HA7gU9sdMCD1XkEjW9Yn-3agU6pOeF1KqwE1ckFZ0w6HLmR_orpFVG7e",
+          "width": 512
+        }
+      ],
+      "place_id": "ChIJh0wOqZ_l1y0Rprw8nkyBreo",
+      "plus_code": {
+        "compound_code": "JPVH+2C Waru, Krajan Kulon, Sidoarjo Regency, East Java",
+        "global_code": "6P4JJPVH+2C"
+      },
+      "rating": 4.5,
+      "reference": "ChIJh0wOqZ_l1y0Rprw8nkyBreo",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3738
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Darmo Harapan I, Tanjungsari, Kec. Sukomanunggal, Surabaya, Jawa Timur 60187, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.271895300000001,
+          "lng": 112.6914292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.270639320107278,
+            "lng": 112.6926220298927
+          },
+          "southwest": {
+            "lat": -7.273338979892721,
+            "lng": 112.6899223701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Whiz Prime Hotel Darmo Harapan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110863144651745960490\">Whiz Prime Hotel Darmo Harapan</a>"
+          ],
+          "photo_reference": "AWU5eFhNd78Dl-wMTwqEs60E8D76Ecl-yohqccMEwVEqn3k1pMU3lQ6JXi-yZYtD7AVI8usx2eaM806VDem0nlr_LANWhMazt0HbcmCPB1Oqt2YswEsJLdHo4GDs9_A_9zyjsdAINHCoOBULR6zwUba5DcikbDLAbNpFC2PGDMCv8ucNyLND",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJdTuKtSH81y0RNUs80qMZKjg",
+      "plus_code": {
+        "compound_code": "PMHR+6H Tanjungsari, Surabaya, East Java",
+        "global_code": "6P4JPMHR+6H"
+      },
+      "rating": 4.1,
+      "reference": "ChIJdTuKtSH81y0RNUs80qMZKjg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2665
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Kedung Baruk No.96, Kedung Baruk, Kec. Rungkut, Surabaya, Jawa Timur 60298, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3115246,
+          "lng": 112.781607
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.309985270107278,
+            "lng": 112.7830612298927
+          },
+          "southwest": {
+            "lat": -7.312684929892722,
+            "lng": 112.7803615701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Gunawangsa MERR",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109563260066005113528\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFj7jTLxRV5vPEX845c0ftOnbwJWaXxyrMZHjbeDRzOZSgjovRpFG6H4fmPqFxzlIJtLRUzlFFM3w5J7qcKCMOg8dJXkDL_UN6A8KHqkf-zmU1eRF4BQGTw5a_WY5p6Q9gRtCx5k2KfK56UvMnJksUAF0wobO5FFruE50hG_7g4Aa2Og",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJSaHJwvP61y0RPT0vCyDOTyY",
+      "plus_code": {
+        "compound_code": "MQQJ+9J Kedung Baruk, Surabaya, East Java",
+        "global_code": "6P4JMQQJ+9J"
+      },
+      "rating": 4.3,
+      "reference": "ChIJSaHJwvP61y0RPT0vCyDOTyY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4980
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Dharmahusada No.189, Mojo, Kec. Gubeng, Surabaya, Jawa Timur 60285, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.267314300000001,
+          "lng": 112.7711769
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.266081820107275,
+            "lng": 112.7724020798927
+          },
+          "southwest": {
+            "lat": -7.268781479892719,
+            "lng": 112.7697024201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "MaxOne Hotel Dharmahusada",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 692,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109336854459822839939\">Maxone Dharmahusada</a>"
+          ],
+          "photo_reference": "AWU5eFjQi7ws6vsAO7Ui1TX2OtvZ7kHld56fqD-ABnmc3cZ5QXACwK49fcMfh4Wic_Ug0EBYnYIEPjd4vcZdOE6LkPnkXb_alO1Io3AMPvsgC3vg1xQK7vTZvXUXte6007weTDpzFo2dZWsyH_WF3-8Mf8Obq_qpfQ2aPGZKLpU_Tzmb2W9C",
+          "width": 1232
+        }
+      ],
+      "place_id": "ChIJSymbryn61y0Rn0_WL-e-N1k",
+      "plus_code": {
+        "compound_code": "PQMC+3F Mojo, Surabaya, East Java",
+        "global_code": "6P4JPQMC+3F"
+      },
+      "rating": 4.4,
+      "reference": "ChIJSymbryn61y0Rn0_WL-e-N1k",
+      "types": [
+        "cafe",
+        "lodging",
+        "night_club",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3212
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Manyar Kertoarjo No.100, Manyar Sabrangan, Kec. Mulyorejo, Surabaya, Jawa Timur 60116, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2808363,
+          "lng": 112.7703437
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.279296320107277,
+            "lng": 112.7716341798927
+          },
+          "southwest": {
+            "lat": -7.281995979892721,
+            "lng": 112.7689345201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Swiss-Belinn Manyar Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108755616386950738342\">Inne Hadiati</a>"
+          ],
+          "photo_reference": "AWU5eFi-zCZ6Fdi39TsXooWhj1FJSGCBksNM0Ot8Nu6pKYBANkOBQuu2XltnrKHSrdUi78RV0r65Ho0tP_SBXsYV0XDoLdKkIErqU0LbBTUXaqK1nlC30lEiQ1H4dWw0l1JG49DjcE4K0tz57qCJe7Po8QBEV5w3vDvZCKR1GY-TOL9AcMk",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJV2AD9TP61y0RENDhZP6rG4c",
+      "plus_code": {
+        "compound_code": "PQ9C+M4 Manyar Sabrangan, Surabaya, East Java",
+        "global_code": "6P4JPQ9C+M4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJV2AD9TP61y0RENDhZP6rG4c",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6522
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Mayjen HR. Muhammad No.2A, Putat Gede, Kec. Sukomanunggal, Surabaya, Jawa Timur 60189, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2862689,
+          "lng": 112.7026207
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.285098470107278,
+            "lng": 112.7039222798927
+          },
+          "southwest": {
+            "lat": -7.287798129892722,
+            "lng": 112.7012226201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "HARRIS Hotel & Conventions Bundaran Satelit Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101094024767403518045\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhHxcUIcELX4Vssw4s_H_k6burbc5oPmFRLVJd3u_bZo5PSJ0Z5voZktt64NRPATMqJJxpPav1FAOjAsEkD9ceQnYrlW3Ni6H4FAMxVVi_csaQaNaQVsnL8gqcMIVdaFMPcRSVGZ9_hU62Z0HZH7SK3LjZBrFq5je-Ir5FfRsl3R9KM",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJA_bAVSH91y0R1CdLI8Kr3-g",
+      "plus_code": {
+        "compound_code": "PP73+F2 Putat Gede, Surabaya, East Java",
+        "global_code": "6P4JPP73+F2"
+      },
+      "rating": 4.7,
+      "reference": "ChIJA_bAVSH91y0R1CdLI8Kr3-g",
+      "types": [
+        "lodging",
+        "spa",
+        "gym",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2522
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Wisma Pagesangan No.203, Pagesangan, Kec. Jambangan, Surabaya, Jawa Timur 60233, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.337981,
+          "lng": 112.7139892
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.336652070107279,
+            "lng": 112.7154226298927
+          },
+          "southwest": {
+            "lat": -7.339351729892723,
+            "lng": 112.7127229701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Namira Syariah Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102639177864522495204\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFg0fLre23dvQgYbfbPNfz07qHPKXIWY9mfKcbcug9evQKAj9BlmPphK2s33dJCSL15Q7kmH4sDlH4Pro-ltKxHjbXyqi1fcTHzTrDwqxpIBVDrA5FhRUKfUMRm4tdVgw-M6OqCcUlBuSAZYbDR7E8jQY8FAOr-Kq-GI_wQ85cbfXed6",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJf3m766f81y0Rimf7uOm1rVs",
+      "plus_code": {
+        "compound_code": "MP67+RH Pagesangan, Surabaya, East Java",
+        "global_code": "6P4JMP67+RH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJf3m766f81y0Rimf7uOm1rVs",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2572
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Ahmad Yani No.71, Margorejo, Kec. Wonocolo, Surabaya, Jawa Timur 60238, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.314275800000001,
+          "lng": 112.7349897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.31285542010728,
+            "lng": 112.7361977798927
+          },
+          "southwest": {
+            "lat": -7.315555079892723,
+            "lng": 112.7334981201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "MÃƒÂ¶venpick Surabaya City",
+      "photos": [
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105665831674471449979\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhJFu1pOk8er8TWB3GmI2Wdet_PwYtVzfFL7MHz7E-tAf59Pbsj9mDg96DjhNqydbrXStqszwLUbHe83qFSDigxofZulFe8uIx6c-NlEYxtFvdv3FJOeydUwVTZuqvlOQ7nx9DiXEJC6CHnQgen4iDAQPrLxf2SNUtknFJIqhniW0LA",
+          "width": 6720
+        }
+      ],
+      "place_id": "ChIJgdvJs7_71y0R1xLUldNgYiI",
+      "plus_code": {
+        "compound_code": "MPPM+7X Margorejo, Surabaya, East Java",
+        "global_code": "6P4JMPPM+7X"
+      },
+      "rating": 4.7,
+      "reference": "ChIJgdvJs7_71y0R1xLUldNgYiI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3850
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Tidar No.5, Sawahan, Kec. Sawahan, Surabaya, Jawa Timur 60251, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.258360799999999,
+          "lng": 112.7322172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.256893970107276,
+            "lng": 112.7336107298927
+          },
+          "southwest": {
+            "lat": -7.25959362989272,
+            "lng": 112.7309110701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "MaxOneHotels.com @ Tidar Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1181,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100671240529468434037\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjdf7p0EJEb_QrPbxhDNQETwF_byxQtxYCA4lEmkjSUrARU2CPNGhECkdNcP-u5lygauo-sLJyr4y510q1B4UcD7EZBgDBDvh3d_36r2-TAcXnTmxOyBbQON1GZ1xQ3wxw704lxSIdWWOqRSTZQB7blw01ZIyphbpagVFOBLL2OD9dC",
+          "width": 1181
+        }
+      ],
+      "place_id": "ChIJJRaIQlv51y0Rr_SsAS7Rd68",
+      "plus_code": {
+        "compound_code": "PPRJ+MV Sawahan, Surabaya, East Java",
+        "global_code": "6P4JPPRJ+MV"
+      },
+      "rating": 4.4,
+      "reference": "ChIJJRaIQlv51y0Rr_SsAS7Rd68",
+      "types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3921
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Ahmad Yani No.176-178, Gayungan, Kec. Gayungan, Surabaya, Jawa Timur 60235, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3311302,
+          "lng": 112.729877
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.329923320107278,
+            "lng": 112.7313868298927
+          },
+          "southwest": {
+            "lat": -7.332622979892721,
+            "lng": 112.7286871701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Best Western Papilio Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3060,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102636249764359872171\">San Permana</a>"
+          ],
+          "photo_reference": "AWU5eFjPqsVSIy-bGT4bhfxvaBWqyEYoFOmg-59vleCTOzOTAgn107UyWlXJZHfsGhSdflp0ufFJEuUN-9rq53vcy5Kb7NPqi008GSd7l-d7B-kvv6Fk680whkrA-zVC39Q98ARPuPcWdh4vUUbDCD9hGRW5uogbaV-Cr8PRd9v6KWEMLRJc",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJRdQEB0P71y0RDmiLFaPgHac",
+      "plus_code": {
+        "compound_code": "MP9H+GX Gayungan, Surabaya, East Java",
+        "global_code": "6P4JMP9H+GX"
+      },
+      "rating": 4.5,
+      "reference": "ChIJRdQEB0P71y0RDmiLFaPgHac",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10002
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Spazio Tower, Jl. Mayjend. Jonosewojo No.Kav. 3, Pradahkalikendal, Kec. Dukuhpakis, Surabaya, Jawa Timur 60226, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2904309,
+          "lng": 112.6770872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.289089370107279,
+            "lng": 112.6784348798927
+          },
+          "southwest": {
+            "lat": -7.291789029892723,
+            "lng": 112.6757352201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Whiz Luxe Hotel Spazio Surabaya",
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101713858564980373986\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjksqjKYKUuL3kWPuVP_huYv18uYHbAWyb5qShQxh8wVHs47vZX0oMiUdPHq71_lbKgzbWUxYqR1rgGES2rCw1JP9k9UMfhsJc1vGaIjN_c_3f2PK-XvunMIQnVYLFW-ia_NHZc9d5_SKXY1mBjDPgqoArgGOD1pcafImkzHeE7TGmn",
+          "width": 2608
+        }
+      ],
+      "place_id": "ChIJuUAt9pz91y0RPb48f4uxFfM",
+      "plus_code": {
+        "compound_code": "PM5G+RR Pradahkalikendal, Surabaya, East Java",
+        "global_code": "6P4JPM5G+RR"
+      },
+      "rating": 4.8,
+      "reference": "ChIJuUAt9pz91y0RPb48f4uxFfM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 270
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Tunjungan St No.101, Embong Kaliasin, Genteng, Surabaya, East Java 60271, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.261965699999998,
+          "lng": 112.7409676
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.260645170107277,
+            "lng": 112.7423471798927
+          },
+          "southwest": {
+            "lat": -7.263344829892721,
+            "lng": 112.7396475201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Swiss-Belinn Tunjungan, Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1438,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106892205710265718121\">Swiss-Belinn Tunjungan</a>"
+          ],
+          "photo_reference": "AWU5eFjD6cJT-QOV2dxSbzekAUhKMQe1Q4hWQ227jaW_K_YLpjztc_-x8fIGDTyR0Fx9f8EhVUAOGv14oRF_nNOs0LyIrbjENIMzp0YDkC9kBh5CU2uqeKEquig_vd4sZhsX7ebPJoRHuAthLNfX9vqsR9blME70KH7m4VaNQFt7IgiZELwu",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJyZsFzGD51y0REd7FZ3s-1NY",
+      "plus_code": {
+        "compound_code": "PPQR+69 Embong Kaliasin, Surabaya, East Java",
+        "global_code": "6P4JPPQR+69"
+      },
+      "rating": 4.6,
+      "reference": "ChIJyZsFzGD51y0REd7FZ3s-1NY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8383
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Mayjen Sungkono No.212-214, Putat Gede, Kec. Sukomanunggal, Surabaya, Jawa Timur 60256, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2871476,
+          "lng": 112.7068144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.286089570107278,
+            "lng": 112.7080249298927
+          },
+          "southwest": {
+            "lat": -7.288789229892722,
+            "lng": 112.7053252701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Brava Suites by ZIA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110367982424419693764\">Dwi Chalid</a>"
+          ],
+          "photo_reference": "AWU5eFgi0lUPOqFOA7s4wbIjchqfFwmRu6Ni2tQL8aieLgfsvYRln4heXO6mnFcLPTnnCT1MRYhdQoxX9sh4RApmO-HezO3z3cnG75vQ1qhgiCmGgqDsRIhMNiAkmcxD3uNQQtxSAZxZ9_t-C_HZcc1t-kC6WDX_WervvZ0Udf50FKM8bXrQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ62W35Az81y0RMYYduz50Hcw",
+      "plus_code": {
+        "compound_code": "PP74+4P Putat Gede, Surabaya, East Java",
+        "global_code": "6P4JPP74+4P"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ62W35Az81y0RMYYduz50Hcw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 316
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Gayung Kebonsari No.61 - 65, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3289055,
+          "lng": 112.7230509
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.327610670107278,
+            "lng": 112.7243952798927
+          },
+          "southwest": {
+            "lat": -7.330310329892722,
+            "lng": 112.7216956201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Pana House",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106621739855458909066\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFh-wEqY7QnTZFyVF2QhLZna7BCPyIO2IX_rgQpMs7dScKxP9Z8O3PAmCY_M8HcIz9wK9RIKBD_TugoZm3-EhIvXfrzJOZbSht08Fr__xcMys12_kDj1K32ejyhpe493rEPIJ973nH9FFnAJWTza5FdX1kYR9NjC2v5vRZiesVEKH7PV",
+          "width": 4512
+        }
+      ],
+      "place_id": "ChIJQ4W_NiL71y0Rd0Zm0z0xJC4",
+      "plus_code": {
+        "compound_code": "MPCF+C6 Ketintang, Surabaya, East Java",
+        "global_code": "6P4JMPCF+C6"
+      },
+      "rating": 4.5,
+      "reference": "ChIJQ4W_NiL71y0Rd0Zm0z0xJC4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 834
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Menur Pumpungan No.62, Menur Pumpungan, Kec. Sukolilo, Surabaya, Jawa Timur 60118, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.289974999999999,
+          "lng": 112.7687397
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.288459120107277,
+            "lng": 112.7701231298927
+          },
+          "southwest": {
+            "lat": -7.291158779892721,
+            "lng": 112.7674234701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Gunawangsa Manyar",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111957499645174821348\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjRV0IDwWAd-S9Lr5729JjlSvYqq0v2MKWWmvbVqp499PKnMLQGHWqMnOjcUhFUSe9jMtBLemtmad4ux8cjmXK-LGBnu8abqDxwhcBQ5sNmi87V90M9BTeEsmRHjYgvtieY9EtxxqY-ZApfLrCbrATOBW5xoe4ZsTRY8XIWJtifWklM",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ9aKaWEn61y0RjmCoWlVuTPE",
+      "plus_code": {
+        "compound_code": "PQ69+2F Menur Pumpungan, Surabaya, East Java",
+        "global_code": "6P4JPQ69+2F"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ9aKaWEn61y0RjmCoWlVuTPE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5793
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Sumatera No.1 -15, Pacar Keling, Kec. Tambaksari, Surabaya, Jawa Timur 60281, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.266648000000001,
+          "lng": 112.751577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.265550320107278,
+            "lng": 112.7527989298927
+          },
+          "southwest": {
+            "lat": -7.268249979892722,
+            "lng": 112.7500992701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Sahid Surabaya",
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117102792155393721001\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhMgceoZtjpZD3AYiwJ9uxtjJfDtFJGnClUbwDOHuY6LTuilOokCjZsEwVFIxQPwoWNIQZT-ZplaRWC0pEI-ccsmcZpkURk8YOJppTpZbZmbe4Yq-NPpq9XlvJxGEi1TH4jm7Y5iX6KJ9QIt2E_NJDPz_DvYaAGYvJ4RywMCjsavkHe",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJx006Ltj71y0RQRCVAjXBL4A",
+      "plus_code": {
+        "compound_code": "PQM2+8M Pacar Keling, Surabaya, East Java",
+        "global_code": "6P4JPQM2+8M"
+      },
+      "rating": 4.1,
+      "reference": "ChIJx006Ltj71y0RQRCVAjXBL4A",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4565
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Sumatera No.20 C, Ketabang, Kec. Gubeng, Surabaya, Jawa Timur 60272, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.267576099999999,
+          "lng": 112.7509318
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.266231320107278,
+            "lng": 112.7522984798927
+          },
+          "southwest": {
+            "lat": -7.268930979892722,
+            "lng": 112.7495988201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "My Studio Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105097118141171221745\">Budiyadin Marzuq</a>"
+          ],
+          "photo_reference": "AWU5eFhEzCn2XkEkAiHcxdvIfSX5ntlNoSVwJ7p9TH_tr2a3L1OLLveWDpBM3POFDmX_-SszUUQFm7aSJAcAywGb-2W7RazSHMOIKNYA96LTNkxzEVofMPH3MjqJ_OAMJCdRry5JPkllRbW871hxFEl8F_-rj8o1UtTPljM92EQqWpiLOtY0",
+          "width": 3468
+        }
+      ],
+      "place_id": "ChIJXcPHLtj71y0RVBXi0MbB5SI",
+      "plus_code": {
+        "compound_code": "PQJ2+X8 Ketabang, Surabaya, East Java",
+        "global_code": "6P4JPQJ2+X8"
+      },
+      "rating": 4.2,
+      "reference": "ChIJXcPHLtj71y0RVBXi0MbB5SI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2448
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Benteng No.1, Nyamplungan, Kec. Pabean Cantikan, Surabaya, Jawa Timur 60162, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2256168,
+          "lng": 112.740466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.224171720107277,
+            "lng": 112.7416857798927
+          },
+          "southwest": {
+            "lat": -7.226871379892721,
+            "lng": 112.7389861201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "KHAS Surabaya Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 946,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116639600283246465670\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhUSyPKc0Zww4oQBg8F0uTSgp87yffBM2Rd9BV-wveirbThla0YXfzvD6Ooxbbi638Aqz7PEqCWh8DiK30JafEZQJfumHwlorb75pSVm6X47RxcxJTUqOyC7x5aoSYYSrX78e-rRRc-2FsDAWVky131793r6tEMhglDvhTo6-_khPl9",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJy9LIQeD41y0RwdbbDech4Pw",
+      "plus_code": {
+        "compound_code": "QPFR+Q5 Nyamplungan, Surabaya, East Java",
+        "global_code": "6P4JQPFR+Q5"
+      },
+      "rating": 4.5,
+      "reference": "ChIJy9LIQeD41y0RwdbbDech4Pw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2797
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Plaza Boulevard Jl. Pemuda No.33 - 37, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.263603600000001,
+          "lng": 112.748515
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.262196470107278,
+            "lng": 112.7497317798927
+          },
+          "southwest": {
+            "lat": -7.264896129892722,
+            "lng": 112.7470321201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Surabaya Suites Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1301,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110508849945001831616\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFixRinc3n6zCirS_QZHHMvcICOhkoDatO80GUIVBS8WKi7LRbIF_AFsp6M_euGvj7jU338_AmIaJOUjpPiYwXnJXpKDUI7-fF0Iogp-rwOiQXrKzRFfqk2fSlj-fjuMcb3k7QnENHYG9JII1wpK1h6s-xh4TOZD3pUnfshTu4PDODqq",
+          "width": 1890
+        }
+      ],
+      "place_id": "ChIJrzO3l2L51y0RheE4AAtvpCg",
+      "plus_code": {
+        "compound_code": "PPPX+HC Embong Kaliasin, Surabaya, East Java",
+        "global_code": "6P4JPPPX+HC"
+      },
+      "rating": 4.5,
+      "reference": "ChIJrzO3l2L51y0RheE4AAtvpCg",
+      "types": [
+        "lodging",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6968
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Dr. Soetomo No.79-81, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur 60264, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.284327399999999,
+          "lng": 112.7345879
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.282849170107276,
+            "lng": 112.7358764298927
+          },
+          "southwest": {
+            "lat": -7.285548829892719,
+            "lng": 112.7331767701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "REGANTRIS HOTEL SURABAYA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110828272775558765067\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhzBOl99tVaa00kmrG-Snsy2I1alxfZeINwmVpHEB6bR2MHUT-v3VhJPrM941blM5jPeVN8qdTh0FI8OLi4MK4o3jra2AZpz_yq_VZiRbti_NpcReDMrSjwYK5l69G0U2g0NZWnQzWN3Sjj_WKtt7qNp4doncHVzO3tHyCBGZSsG40D",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJvVpyMVT71y0Rq74krTiJwhQ",
+      "plus_code": {
+        "compound_code": "PP8M+7R DR. Soetomo, Surabaya, East Java",
+        "global_code": "6P4JPP8M+7R"
+      },
+      "rating": 4.5,
+      "reference": "ChIJvVpyMVT71y0Rq74krTiJwhQ",
+      "types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 793
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Jemursari, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.321813499999999,
+          "lng": 112.7450654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.320361970107278,
+            "lng": 112.7463562798927
+          },
+          "southwest": {
+            "lat": -7.323061629892722,
+            "lng": 112.7436566201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "The Southern Hotel Surabaya",
+      "photos": [
+        {
+          "height": 512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109496541393935967292\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFgGIBZjZcZG0E05sSm3jXMEYx0EuHcoMuj7A8F4wQ4mVrXjUWbEd-W-4WeEOSYijjYE2JueCZ4OcuRPnQ1E308T_Ju3G-RbuVwqfVLA20dhF8gEQkIOzcdXxg9grbfx0ZQwl1qS4Xo5ebV4jeW0mQf7Al8uc0g-PQY-bFvsAwgzZVQy",
+          "width": 512
+        }
+      ],
+      "place_id": "ChIJoVgf87L71y0RvWupJyVrUMw",
+      "plus_code": {
+        "compound_code": "MPHW+72 Jemur Wonosari, Surabaya, East Java",
+        "global_code": "6P4JMPHW+72"
+      },
+      "rating": 4.5,
+      "reference": "ChIJoVgf87L71y0RvWupJyVrUMw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6068
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Siwalankerto No.95, Siwalankerto, Kec. Wonocolo, Surabaya, Jawa Timur 60234, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.339121800000001,
+          "lng": 112.7341636
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.337878520107278,
+            "lng": 112.7354976798927
+          },
+          "southwest": {
+            "lat": -7.340578179892722,
+            "lng": 112.7327980201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel SWK 95",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100892924985732560210\">Hotel SWK 95</a>"
+          ],
+          "photo_reference": "AWU5eFg4pBuYSHmDXlEHpZw6XT7lZc7TgOOPQ3fUA44q0hbPSIp2wXNbJf-RBekVus4cMZKJbPct3uVwJT59Q4F1_4KQ69_d-XlFsWbIso_7vzlBa0S5BITetEr3NoUrIZybiQAL4x_-uOnDVuQ5Y3Aur4eqTDZ5mVkZz7Eooxbj4chwU-0g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJo1ycuEj71y0Rfdqn73HGXLQ",
+      "plus_code": {
+        "compound_code": "MP6M+8M Siwalankerto, Surabaya, East Java",
+        "global_code": "6P4JMP6M+8M"
+      },
+      "rating": 4,
+      "reference": "ChIJo1ycuEj71y0Rfdqn73HGXLQ",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1094
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Blok H-345 No.7, Jl. Manyar Kertoadi, Manyar Sabrangan, Kec. Mulyorejo, Surabaya, Jawa Timur 60116, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2821946,
+          "lng": 112.7769991
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.280878420107276,
+            "lng": 112.7783461798927
+          },
+          "southwest": {
+            "lat": -7.283578079892719,
+            "lng": 112.7756465201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Pratisarawirya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 427,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108777942647914628190\">Pratisara Wirya</a>"
+          ],
+          "photo_reference": "AWU5eFgWviQE7zmxNQWyHs6f1ZFkDJluy3XHuDmcGv5DQUFIaTuyJDqcesGuVlyq0oYTo3N_unavYlFodHsM2PC_QDN17AdrHtEmisoQBHY2hXlVJJjE69zzKlmmQW_A0jeu_Yv8j6vNfGR5EOgRGQRBSAO5cX6qREDfu0quahUSFbv2D_WI",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJVyL_sDn61y0RDgpcxGRp6Kg",
+      "plus_code": {
+        "compound_code": "PQ9G+4Q Manyar Sabrangan, Surabaya, East Java",
+        "global_code": "6P4JPQ9G+4Q"
+      },
+      "rating": 4.1,
+      "reference": "ChIJVyL_sDn61y0RDgpcxGRp6Kg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 411
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Tidar No.74, Sawahan, Kec. Sawahan, Surabaya, Jawa Timur 60251, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.257127,
+          "lng": 112.729296
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.255864320107278,
+            "lng": 112.7306308298927
+          },
+          "southwest": {
+            "lat": -7.258563979892722,
+            "lng": 112.7279311701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ibis Surabaya Tidar",
+      "photos": [
+        {
+          "height": 3608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117080417534272734930\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFj0NM4TFHUK3KnWTMbXkRrBk92dNZu2SYB-pZhVYahwnuZCzxj_1lR74Xp6sYjP2icgiZhMStz0L8M1bkSuxA68PM0u7INbOzLewoiFKOoRA0-F025tPfu3BGuknXmZFBnzXCTxDpcMFaLA67Zc6Zng7stgD664J8ekTBZsdFrD3rAk",
+          "width": 5315
+        }
+      ],
+      "place_id": "ChIJzd7FMUX51y0RbJWSZBpep2U",
+      "plus_code": {
+        "compound_code": "PPVH+4P Sawahan, Surabaya, East Java",
+        "global_code": "6P4JPPVH+4P"
+      },
+      "rating": 4.7,
+      "reference": "ChIJzd7FMUX51y0RbJWSZBpep2U",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 646
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Dr. Ir. H. Soekarno No.45c, Kalijudan, Kec. Mulyorejo, Surabaya, Jawa Timur 60114, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.258874199999999,
+          "lng": 112.7828331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.257427870107278,
+            "lng": 112.7841264298927
+          },
+          "southwest": {
+            "lat": -7.260127529892721,
+            "lng": 112.7814267701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Dafam Pacific Caesar Surabaya",
+      "photos": [
+        {
+          "height": 6505,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113545131819576704657\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFiqhux-v2kmC4R2iPLBR0WVHhinsvoW9LqBpuvj_OVfOKjIwSK5OywkT5t77Y_yQ49K7AikZF-APVYlw1waTRqoypJ4UYAh7D7b_dCebU3djJZK6sHADWdM0iU-LTBb7BFD7pM-pzHOFJXEqSJJZNMvyfKmweh5JgepYTlvl-1Vi_Xd",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJbUuMdEH51y0Rxf99XzannG0",
+      "plus_code": {
+        "compound_code": "PQRM+F4 Kalijudan, Surabaya, East Java",
+        "global_code": "6P4JPQRM+F4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJbUuMdEH51y0Rxf99XzannG0",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 143
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Gubernur Suryo No.1, RW.3, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.262543200000001,
+          "lng": 112.7416153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.261273570107277,
+            "lng": 112.7429995798927
+          },
+          "southwest": {
+            "lat": -7.263973229892721,
+            "lng": 112.7402999201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grand Inna Tunjungan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109041251864665974057\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFiecZ30If9jBJiqZObJVJpXJ0AvmMQK0xAVjO-8dMb4XecDIWYnG0vRLXHFK7rMs5MJuFGN17_qLpVAX2JSTzopSGjtT_X1CnIJhDF-FzP4xBBWKyxsVo3rkutP8r69fmBl9glEnibBBx01rAbw_8-5Yyav-wIppPUNU81Se2WJlHu3",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJIyKa4GD51y0RhGo6tKHINwM",
+      "plus_code": {
+        "compound_code": "PPPR+XJ Embong Kaliasin, Surabaya, East Java",
+        "global_code": "6P4JPPPR+XJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJIyKa4GD51y0RhGo6tKHINwM",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3086
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Pecindilan No.66, Kapasari, Kec. Genteng, Surabaya, Jawa Timur 60161, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.244280300000001,
+          "lng": 112.7477534
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.24286522010728,
+            "lng": 112.7491179798927
+          },
+          "southwest": {
+            "lat": -7.245564879892724,
+            "lng": 112.7464183201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Life Hotel Stasiun Kota",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114045432570308266909\">syarifah khairunissa</a>"
+          ],
+          "photo_reference": "AWU5eFhOUJDmoGB2bgmzCGwv3OkHbB62siCa3KhRHHeJXDkjEwODc8RtJqgxOquAMF2L4mREgCeZ1p0axu3b7syX_spLw-oOfqCGzUCMME89QVSuvhx_mW7-UyftieY2w69561x2Ih5T_RrC4npX-ubs72y-6SWD_-pWfZ6ENm_71DiGeMt7",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ_e_pVA351y0Rth6fpqUJVjI",
+      "plus_code": {
+        "compound_code": "QP4X+74 Kapasari, Surabaya, East Java",
+        "global_code": "6P4JQP4X+74"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ_e_pVA351y0Rth6fpqUJVjI",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 238
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Kertajaya Indah No.95, Manyar Sabrangan, Kec. Mulyorejo, Surabaya, Jawa Timur 60117, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.279902599999999,
+          "lng": 112.7836727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.278653870107277,
+            "lng": 112.7850369298927
+          },
+          "southwest": {
+            "lat": -7.281353529892721,
+            "lng": 112.7823372701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Mandiri Mansion",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110112194880684993994\">yonathan chrismawardi</a>"
+          ],
+          "photo_reference": "AWU5eFiIH_fxiISiwGEDzK6UJg9giM3w0a5jKrLwGZDJSWtHOAYfTn00WLeVSbas3aC8Jh98dGVR1Z0b1RMFYDnd583dReWXhyXQnIfEDeUw5URD_tcYYTqHaHdGGvRR4r8MuB_X9EdcOij_nM4zCJ2Tj5fPq97tN0UC8B-hDCNdbz96Xn1g",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJZZ-qrT761y0RRVnkkskjrC4",
+      "plus_code": {
+        "compound_code": "PQCM+2F Manyar Sabrangan, Surabaya, East Java",
+        "global_code": "6P4JPQCM+2F"
+      },
+      "rating": 4.3,
+      "reference": "ChIJZZ-qrT761y0RRVnkkskjrC4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 596
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Manyar Kertoarjo V No.62, Mojo, Kec. Gubeng, Surabaya, Jawa Timur 60256, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.279078,
+          "lng": 112.7652749
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.277661320107279,
+            "lng": 112.7667343798927
+          },
+          "southwest": {
+            "lat": -7.280360979892722,
+            "lng": 112.7640347201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Bonnet Hotel Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106018569704516762720\">Lati Ningrum</a>"
+          ],
+          "photo_reference": "AWU5eFjU0_f04WbZIor9q4oqLTA77QuoxilCJ7d5Qg9TZabhHhOdHnbET6Q4kzCSkrXWZEn_9vsshCj6CT0SZyCoDm6QnkIWI7evnaPgPE728yu9cDnjJNi4-x8CNyR7N9OzuyAhyUT_wxr2w-IPOi9hQ_Cdq0QLHaNnNx9bKNZZ6qPu_DaQ",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJQ9uJBTP61y0R7hfbn4LTp84",
+      "plus_code": {
+        "compound_code": "PQC8+94 Mojo, Surabaya, East Java",
+        "global_code": "6P4JPQC8+94"
+      },
+      "rating": 4.3,
+      "reference": "ChIJQ9uJBTP61y0R7hfbn4LTp84",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2145
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Manyar Kertoarjo No.44, Manyar Sabrangan, Kec. Mulyorejo, Surabaya, Jawa Timur 60116, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2802195,
+          "lng": 112.7659277
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.278734270107278,
+            "lng": 112.7672956298927
+          },
+          "southwest": {
+            "lat": -7.281433929892722,
+            "lng": 112.7645959701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Mercure Surabaya Manyar",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117070683445141479549\">brian austin</a>"
+          ],
+          "photo_reference": "AWU5eFiVEmNaBnnps5u6tK3NZK3VGCqiuEJuiF5RWtUbInPu7miBWAsowiGdtMwzMrkWqwAFW3iqjL3s1mQSdlX3Ux_FUiAabGlYBz_Ja1yfHTudWqfQa0x8hAXhCcDUGXOdDdIPPtLBCHcy8hUwHCzpYWwUVz0gE0G1titiofjt7AEpVgdM",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJgwhAZ9T71y0RwdsRml4k1K4",
+      "plus_code": {
+        "compound_code": "PQ98+W9 Manyar Sabrangan, Surabaya, East Java",
+        "global_code": "6P4JPQ98+W9"
+      },
+      "rating": 4.8,
+      "reference": "ChIJgwhAZ9T71y0RwdsRml4k1K4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 789
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Bintoro No.21-25, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur 60264, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.286243499999999,
+          "lng": 112.7384134
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.284833470107277,
+            "lng": 112.7397682798927
+          },
+          "southwest": {
+            "lat": -7.287533129892721,
+            "lng": 112.7370686201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Tulip Darmo Surabaya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103817834288293742577\">Fajar Argo</a>"
+          ],
+          "photo_reference": "AWU5eFgHBt06hcGItHP-T2p2a0B-dwb99XZE91Iyy74mq3_uEMdDZ8m1yHjMTGzmVUK9md141v-RlExRjcMHfEUmYNyRM-P694AWWvn6NSJLTVRBTruQzvzPfetMLdSeU69w_k3B4ArpMMPcGQ7-sgCJsDWxa7U1k44B3klN5E7I1reX9jUY",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJR9KrODP71y0RtqQg-WZOJ5E",
+      "plus_code": {
+        "compound_code": "PP7Q+G9 DR. Soetomo, Surabaya, East Java",
+        "global_code": "6P4JPP7Q+G9"
+      },
+      "rating": 4.7,
+      "reference": "ChIJR9KrODP71y0RtqQg-WZOJ5E",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1147
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Mayjen Sungkono No.178, Dukuh Pakis, Kec. Dukuhpakis, Surabaya, Jawa Timur 60225, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2888442,
+          "lng": 112.7106248
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.287777420107278,
+            "lng": 112.7120334798927
+          },
+          "southwest": {
+            "lat": -7.290477079892722,
+            "lng": 112.7093338201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Fairfield by Marriott Surabaya",
+      "photos": [
+        {
+          "height": 320,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104411595393326608245\">Fairfield by Marriott Surabaya</a>"
+          ],
+          "photo_reference": "AWU5eFggjcwR_0DMex8H-l3DWdJm0KTtYXNeKdo0qENVq4T3X7uetTn_16RDOfVLtkmcC0rI8Aj2zIM4QeRAAw12glLClLtxRpMTZSzTXmYneXTMEbkDE0JPjL-RERWrFU4QtqnZY_OVsgQIu1-iK_-WuTVVmqVwWBCB_Ac5fXJkH-kr60G6",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJI97dt3T81y0Rh9uhS4NmV8Y",
+      "plus_code": {
+        "compound_code": "PP66+F6 Dukuh Pakis, Surabaya, East Java",
+        "global_code": "6P4JPP66+F6"
+      },
+      "rating": 4.4,
+      "reference": "ChIJI97dt3T81y0Rh9uhS4NmV8Y",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6187
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Prapen No.22, Panjang Jiwo, Kec. Tenggilis Mejoyo, Surabaya, Jawa Timur 60299, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.3087381,
+          "lng": 112.7594032
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.307420220107279,
+            "lng": 112.7607894798927
+          },
+          "southwest": {
+            "lat": -7.310119879892722,
+            "lng": 112.7580898201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "d'primahotel Jemursari Surabaya",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112794037778601553678\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhydFcy6OW2PnVjdIl8dNa7Tbyl0JaOwYUKFAoSp19wW42LSvZq58ebZFyn7Xl-0XiGLpA5SytQwnp-wjfWz4w792-3QOBMQ-npyOd3gBMM8rvWZ3GQBr5ejUfy5zu1kY1zf0ltd8wk2ezKjVAN6XWZk42EADs3npCVJ9WrpLokZ5hL",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJi7Ff17T71y0R6sXILO-tzaU",
+      "plus_code": {
+        "compound_code": "MQR5+GQ Panjang Jiwo, Surabaya, East Java",
+        "global_code": "6P4JMQR5+GQ"
+      },
+      "rating": 5,
+      "reference": "ChIJi7Ff17T71y0R6sXILO-tzaU",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Jenderal Basuki Rachmat No.11, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2635305,
+          "lng": 112.741325
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.262197970107277,
+            "lng": 112.7425583798927
+          },
+          "southwest": {
+            "lat": -7.264897629892721,
+            "lng": 112.7398587201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cleo Hotel Basuki Rahmat",
+      "photos": [
+        {
+          "height": 3819,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108350074681837500289\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFhjhIfLcey-ZK4nq_oAz2rMPz4e6NoB8nLZ34KIRZrGyjW0__feVj0fytZf-dfP6w4EQRMc6bJsoPYh5jjqnvv9K-SOnwG3gUnpZwZF_1dbw6SuPlNTnMmRHbHSGhrt1HVaPyVKr9X4f5qleKSHSwHb8n-eZIFyu9-yfqxjyzELMlwp",
+          "width": 2864
+        }
+      ],
+      "place_id": "ChIJffuM5WD51y0R9EiiznJTpSg",
+      "plus_code": {
+        "compound_code": "PPPR+HG Embong Kaliasin, Surabaya, East Java",
+        "global_code": "6P4JPPPR+HG"
+      },
+      "rating": 4.1,
+      "reference": "ChIJffuM5WD51y0R9EiiznJTpSg",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1080
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Mex Building, Jl. Pregolan No.1-3-5, Tegalsari, Kec. Tegalsari, Surabaya, Jawa Timur 60271, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2664179,
+          "lng": 112.7404727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.265032470107276,
+            "lng": 112.7416324298927
+          },
+          "southwest": {
+            "lat": -7.26773212989272,
+            "lng": 112.7389327701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "favehotel MEX Tunjungan Surabaya",
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102928933766944472362\">favehotel MEX Surabaya</a>"
+          ],
+          "photo_reference": "AWU5eFjgmRDFQ-Ks9_J9IO_MokpaYUO6EaNEz6iRoTHXYVrlmDSff6aVGbvkNuLrA26PdFb6fq5zcGAuBOGEjySMDuKk17WBSqsSLHfX9p_kj8j6IFpOzhWBYnCEFevcVlQOc4Trz5dkAiEOQ0z5nGNlrkftIedR79tOsD8F-Wvseil1-PAQ",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJaxva8N_71y0RZ4vmEuTauZc",
+      "plus_code": {
+        "compound_code": "PPMR+95 Tegalsari, Surabaya, East Java",
+        "global_code": "6P4JPPMR+95"
+      },
+      "rating": 4.4,
+      "reference": "ChIJaxva8N_71y0RZ4vmEuTauZc",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7445
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Raya Gubeng No.54, Gubeng, Kec. Gubeng, Surabaya, Jawa Timur 60281, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2723078,
+          "lng": 112.7476966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.270964170107278,
+            "lng": 112.7490509798927
+          },
+          "southwest": {
+            "lat": -7.273663829892722,
+            "lng": 112.7463513201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Santika Premiere Gubeng",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102944749915485384423\">Lily Murdiana</a>"
+          ],
+          "photo_reference": "AWU5eFh-nG1gyx3oj6nWA0xLqLfVMs5SdIDZnatOdWI9p-EFGrPf7K5h12s-kZ0U1n75R1S2CoMOPXavP80WZs6TIedyxELeKj53sjNamNnyMAZPsiEF0ZLLt_5mF8DuFla8gJdQLGfwSRW73jy0rpyqnZ2uGVrnTiPbvooKgvO7oeX3vBgu",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCaTiJtr71y0RrKH8jLQQaj4",
+      "plus_code": {
+        "compound_code": "PPHX+33 Gubeng, Surabaya, East Java",
+        "global_code": "6P4JPPHX+33"
+      },
+      "rating": 4.5,
+      "reference": "ChIJCaTiJtr71y0RrKH8jLQQaj4",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8802
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Jl. Siwalankerto No.146-148, Siwalankerto, Kec. Wonocolo, Surabaya, Jawa Timur 60236, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.338805,
+          "lng": 112.7374845
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.337450270107279,
+            "lng": 112.7387942298927
+          },
+          "southwest": {
+            "lat": -7.340149929892723,
+            "lng": 112.7360945701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "The Square Surabaya",
+      "photos": [
+        {
+          "height": 678,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100089485218139819459\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFggZLbMVLpuEWFc-rKW9jy1ctSBotlJO4tXIiJzbOKBFDw7NOLYp5tE1jCFcEq8C4FiiIeX1feUfNPuO74wIrN6rgpvUgd7ueHjsiHvRIw8HCRpQqMRWj1YQF_0RbO6XZO8KDP0wch73QOq1xMxuOwAp588DhjdJ-Gb_d2oCPL9xT6k",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ7XfXx0n71y0RPfxIX_QM7-Q",
+      "plus_code": {
+        "compound_code": "MP6P+FX Siwalankerto, Surabaya, East Java",
+        "global_code": "6P4JMP6P+FX"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ7XfXx0n71y0RPfxIX_QM7-Q",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 452
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Ko Wiguna Nugraha Indah No.57, RT.000/RW.00, Kalijudan, Mulyorejo, Surabaya, East Java 60114, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2582645,
+          "lng": 112.7828589
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.256901020107276,
+            "lng": 112.7841490798927
+          },
+          "southwest": {
+            "lat": -7.25960067989272,
+            "lng": 112.7814494201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "MERR 57",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113945278455212419257\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFg1MMdFWgj_xnUjdZewckPDcFxvlBIF4QRIO6BV7U4sumR2ZoWoyzsVCtxHL4ZclZTTg0JuoMfT794j6g5WOMQJfFKPaaoR4_iT4vwJLAkoC-Ya-31-aBit37z1XuOeeJ2hIKzqGMKjrW6WN1EuINVYOcYewtPZU-6-eBfryZ2_KSF4",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJb0WEyKn51y0RX-HF2ztMC5Y",
+      "plus_code": {
+        "compound_code": "PQRM+M4 Kalijudan, Surabaya, East Java",
+        "global_code": "6P4JPQRM+M4"
+      },
+      "rating": 4.1,
+      "reference": "ChIJb0WEyKn51y0RX-HF2ztMC5Y",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 169
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "No.63, Jl. Perak Bar., Perak Bar., Kec. Krembangan, Surabaya, Jawa Timur 60177, Indonesia",
+      "geometry": {
+        "location": {
+          "lat": -7.2289843,
+          "lng": 112.7296601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.22765897010728,
+            "lng": 112.7310613298927
+          },
+          "southwest": {
+            "lat": -7.230358629892724,
+            "lng": 112.7283616701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "HOTEL BERLIAN INTERNATIONAL",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106019165251001881461\">A Google User</a>"
+          ],
+          "photo_reference": "AWU5eFjG5OHZwyOOEKMzdkjd7D3g6Tq2sXe805Xp0nc-G3zfhVaOGm1HKaSBcT4N9bmeOl5tF80IdzGYHI2fUqfKc8bDFsOWB0EFWF5707DFpVeTMnQYzIT2_KrrO5OF4f6oQ1BE_utnfzelXvQ8hDY_g-I25yjS72Y5uKlkJP9zIjwIEOVN",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJa5aHpSf51y0RZ93Lf8wZmNY",
+      "plus_code": {
+        "compound_code": "QPCH+CV West Perak, Surabaya, East Java",
+        "global_code": "6P4JQPCH+CV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJa5aHpSf51y0RZ93Lf8wZmNY",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 629
+    }
+  ]
