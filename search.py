@@ -148,7 +148,7 @@ def update_pqueue(destinations_pqueue, destinations, current_location, type):
     return updated_destinations_pqueue
 
 def search_destinations(max_days:int, max_budget:int):
-    with open('data_rakha.json') as f:
+    with open('data.json') as f:
         destinations = json.load(f)
 
     plan = a_star(destinations, max_days, max_budget)
